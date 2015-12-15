@@ -1,7 +1,7 @@
 # ODR-Protocol
 Development of a client/server application where the messages are exchanged using an ODR protocol
 
-Authors: Gagan Nagaraju (109889036) & Harishkumar Katagal(109915793)
+Authors: Gagan Nagaraju & Harishkumar Katagal
 CSE 533 - Assignment 3
 ********************************************************************************************
 
